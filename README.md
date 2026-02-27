@@ -4,25 +4,33 @@
 ---
 
 ## 🚀 About Me
-- 🎨 Product Designer focused on UX, product thinking, and experimentation  
-- ⚡ Strong believer in shipping fast and iterating through user feedback  
+- 🎨 Product Designer focused on UX, product thinking, and rapid experimentation  
+- ⚡ Strong believer in shipping fast and improving through real user feedback  
 - 🤖 Exploring AI-driven product experiences and interaction patterns  
 - 🌍 Based in Kerala, India  
-- ✈️ Passionate about travel, food exploration, and storytelling through design  
+- ✈️ Passionate about travel, food exploration, and design storytelling  
 
 ---
 
-## 🛠️ Tools & Tech
+## 🧠 AI & Design Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,react,html,css,js,ts,tailwind,vercel,git,github" />
+  <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Claude-Anthropic-orange?style=for-the-badge&logo=anthropic" />
+  <img src="https://img.shields.io/badge/Antigravity-Creative_AI-purple?style=for-the-badge" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arun14949&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun14949" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arun14949&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun14949&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun14949&layout=compact&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -36,8 +44,12 @@
 
 ## 📫 Connect
 <p>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/></a>
+  <a href="https://www.linkedin.com/in/arunsajeev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://x.com/inspired_monstr">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/>
+  </a>
 </p>
 
 ---
