@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arun Sajeev</h1>
-<h3 align="center">Product Designer crafting thoughtful digital experiences</h3>
+<h3 align="center">Product Designer exploring AI and thoughtful digital experiences</h3>
 
 ---
 
-## 🚀 About Me
-- 🎨 Product Designer focused on UX, product thinking, and rapid experimentation  
-- ⚡ Strong believer in shipping fast and improving through real user feedback  
-- 🤖 Exploring AI-driven product experiences and interaction patterns  
-- 🌍 Based in Kerala, India  
-- ✈️ Passionate about travel, food exploration, and design storytelling  
+## ✨ About Me
+I’m a Product Designer based in Kochi focused on crafting experiences that are intuitive, visually pleasing, and meaningful.  
+My work blends product thinking, interaction design, and experimentation with emerging AI workflows.
+
+I enjoy simplifying complex problems, rapidly prototyping ideas, and exploring how AI can enhance both creativity and product development.
 
 ---
 
@@ -29,16 +28,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun14949&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun14949&layout=compact&hide_border=true" height="150"/>
-</p>
+---
+
+## 🧠 What I Explore
+- AI-native product experiences and workflows  
+- Micro-interaction driven interfaces  
+- Generative visual systems and creative tooling  
+- Rapid prototyping and idea validation through experiments  
+- Design automation that improves team productivity  
 
 ---
 
-## 🌟 Featured Work
-- 🔹 **Westeros Houses Explorer** – Interactive GOT houses & characters web experience  
-- 🔹 **Editorial Portrait Generator** – AI portrait style transfer experiments  
-- 🔹 **Micro UI Experiments** – Small interaction explorations & creative coding  
+## 🌐 Creative Presence
+- Portfolio → https://inspiredmonster.com  
+- Visual explorations → https://dribbble.com/inspired_monster  
+- Writing → https://medium.com/@inspired-monster  
 
 ---
 
@@ -55,4 +59,4 @@
 ---
 
 ## ⚡ Fun Fact
-> I enjoy turning complex ideas into simple, intuitive experiences.
+I enjoy turning small experiments into ideas that can scale into real products.
