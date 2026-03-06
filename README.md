@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arun Sajeev</h1>
-<h3 align="center">Product Designer exploring AI and thoughtful digital experiences</h3>
+<h1 align="left">Hi 👋, I'm Arun Sajeev</h1>
+<h3 align="left">Product Designer exploring AI and thoughtful digital experiences</h3>
 
 ---
 
