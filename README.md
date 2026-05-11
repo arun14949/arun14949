@@ -40,7 +40,7 @@ I enjoy simplifying complex problems, rapidly prototyping ideas, and exploring h
 ---
 
 ## 🌐 Creative Presence
-- Portfolio → https://inspiredmonster.com  
+- Portfolio → https://inspiredos.com  
 - Visual explorations → https://dribbble.com/inspired_monster  
 - Writing → https://medium.com/@inspired-monster  
 
